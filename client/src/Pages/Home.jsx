@@ -1,6 +1,6 @@
-import StorageOverview from "../Components/StorageOverview";
-import FileUpload from "../Components/FileUpload";
-import RecentFiles from "../Components/RecentFiles";
+import StorageOverview from "../components/StorageOverview";
+import FileUpload from "../components/FileUpload";
+import RecentFiles from "../components/RecentFiles";
 
 export default function Home() {
   const recentFiles = [
